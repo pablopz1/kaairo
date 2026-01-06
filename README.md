@@ -21,7 +21,7 @@
 
 
 <!--Intro start-->
-- I am dedicated to backend programming with Python, JavaScript and frameworks like Flask, Svelte
+- I am dedicated to backend programming with Python, JavaScript and frameworks like Flask
 
 - I am currently studying programming at the UTN (Universidad Tecnologica Nacional).
 
